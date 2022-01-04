@@ -11,8 +11,8 @@ accomplish this.
 
 ## Presentation Link
 
-Slideshare
-[Presentation](https://www.slideshare.net/DustinJasmin/stockpredictionml-presentation)
+* Slideshare
+* [Presentation](https://www.slideshare.net/DustinJasmin/stockpredictionml-presentation)
 
 ## Author
 
